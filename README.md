@@ -4,7 +4,7 @@
 
 <a href="https://facebook.com/source.u">🙂 My 1-1 Repos</a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsulaimanshakil&label=Profile%20views&color=0e75b6&style=flat" alt="mdsulaimanshakil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsulaimanshakil&label=Profile%20views&color=brightgreen&style=flat" alt="mdsulaimanshakil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdsulaimanshakil" alt="mdsulaimanshakil" /></a> </p>
 
